@@ -304,7 +304,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
 
 
     #Team8: Enter Team Name Here
-    #Team Members:
+    #Team Members: peggy
     #######################################
 
 
