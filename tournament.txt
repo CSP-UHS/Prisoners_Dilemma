@@ -1,92 +1,398 @@
 team 1 vs. team 0
 100.0 vs. -500.0
 Backstabber vs. Loyal
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 2 vs. team 0
 0.0 vs. 0.0
 Loyal Vengeful vs. Loyal
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 2 vs. team 1
--375.0 vs. -75.0
+-376.1904761904762 vs. -73.33333333333333
 Loyal Vengeful vs. Backstabber
-cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 3 vs. team 0
 0.0 vs. 0.0
 Enter Team Name Here vs. Loyal
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 3 vs. team 1
--375.64102564102564 vs. -74.1025641025641
+-375.0 vs. -75.0
 Enter Team Name Here vs. Backstabber
-cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 3 vs. team 2
 0.0 vs. 0.0
 Enter Team Name Here vs. Loyal Vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 4 vs. team 0
 0.0 vs. 0.0
 Enter Team Name Here vs. Loyal
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 4 vs. team 1
--376.0 vs. -73.6
+-375.0 vs. -75.0
 Enter Team Name Here vs. Backstabber
-cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbc
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 4 vs. team 2
 0.0 vs. 0.0
 Enter Team Name Here vs. Loyal Vengeful
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 4 vs. team 3
 0.0 vs. 0.0
 Enter Team Name Here vs. Enter Team Name Here
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 5 vs. team 0
 0.0 vs. 0.0
 Enter Team Name Here vs. Loyal
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 5 vs. team 1
 -375.0 vs. -75.0
 Enter Team Name Here vs. Backstabber
-cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 team 5 vs. team 2
 0.0 vs. 0.0
 Enter Team Name Here vs. Loyal Vengeful
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 5 vs. team 3
 0.0 vs. 0.0
 Enter Team Name Here vs. Enter Team Name Here
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 team 5 vs. team 4
 0.0 vs. 0.0
 Enter Team Name Here vs. Enter Team Name Here
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 6 vs. team 0
+0.0 vs. 0.0
+Enter Team Name Here vs. Loyal
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 6 vs. team 1
+-375.0 vs. -75.0
+Enter Team Name Here vs. Backstabber
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 6 vs. team 2
+0.0 vs. 0.0
+Enter Team Name Here vs. Loyal Vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 6 vs. team 3
+0.0 vs. 0.0
+Enter Team Name Here vs. Enter Team Name Here
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 6 vs. team 4
+0.0 vs. 0.0
+Enter Team Name Here vs. Enter Team Name Here
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 6 vs. team 5
+0.0 vs. 0.0
+Enter Team Name Here vs. Enter Team Name Here
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 7 vs. team 0
+0.0 vs. 0.0
+Enter Team Name Here vs. Loyal
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 7 vs. team 1
+-375.0 vs. -75.0
+Enter Team Name Here vs. Backstabber
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 7 vs. team 2
+0.0 vs. 0.0
+Enter Team Name Here vs. Loyal Vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 7 vs. team 3
+0.0 vs. 0.0
+Enter Team Name Here vs. Enter Team Name Here
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 7 vs. team 4
+0.0 vs. 0.0
+Enter Team Name Here vs. Enter Team Name Here
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 7 vs. team 5
+0.0 vs. 0.0
+Enter Team Name Here vs. Enter Team Name Here
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 7 vs. team 6
+0.0 vs. 0.0
+Enter Team Name Here vs. Enter Team Name Here
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 8 vs. team 0
+0.0 vs. 0.0
+Enter Team Name Here vs. Loyal
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 8 vs. team 1
+-375.0 vs. -75.0
+Enter Team Name Here vs. Backstabber
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 8 vs. team 2
+0.0 vs. 0.0
+Enter Team Name Here vs. Loyal Vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 8 vs. team 3
+0.0 vs. 0.0
+Enter Team Name Here vs. Enter Team Name Here
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 8 vs. team 4
+0.0 vs. 0.0
+Enter Team Name Here vs. Enter Team Name Here
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 8 vs. team 5
+0.0 vs. 0.0
+Enter Team Name Here vs. Enter Team Name Here
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 8 vs. team 6
+0.0 vs. 0.0
+Enter Team Name Here vs. Enter Team Name Here
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 8 vs. team 7
+0.0 vs. 0.0
+Enter Team Name Here vs. Enter Team Name Here
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 9 vs. team 0
+0.0 vs. 0.0
+AI vs. Loyal
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 9 vs. team 1
+-251.58227848101265 vs. -247.78481012658227
+AI vs. Backstabber
+cbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 9 vs. team 2
+0.0 vs. 0.0
+AI vs. Loyal Vengeful
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 9 vs. team 3
+0.0 vs. 0.0
+AI vs. Enter Team Name Here
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 9 vs. team 4
+0.0 vs. 0.0
+AI vs. Enter Team Name Here
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 9 vs. team 5
+0.0 vs. 0.0
+AI vs. Enter Team Name Here
 cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 9 vs. team 6
+0.0 vs. 0.0
+AI vs. Enter Team Name Here
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 9 vs. team 7
+0.0 vs. 0.0
+AI vs. Enter Team Name Here
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 9 vs. team 8
+0.0 vs. 0.0
+AI vs. Enter Team Name Here
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 10 vs. team 0
+47.71573604060914 vs. -238.57868020304568
+Enter Team Name Here vs. Loyal
+cbbcccccccccbbccccbcccbbccbbbbbbcbcbbbcbccbccbcbbcbbbbbcccbbbcbbbbcbbbbcccccbccbbccbcbcccbcccbbccbccccbcbbcccbcccbcbcbbbbbcbbbcbbbccbbccbcbcbccbcbcccbbcbcbbcbccbccbcbccbcbbccccbbbccbccbcbbbcccbcbcb
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 10 vs. team 1
+-368.09815950920245 vs. -84.66257668711657
+Enter Team Name Here vs. Backstabber
+ccbccbbbbbcbbcbcbccccbcbbcbbcbcccccbbbcbbbbcbcbbccbbcccbccbbbccbbccbbcbcccbcbbcbcccbbbbbcbcbccbbccbccccbcbccccbbcbbbbbcbbcbcbbcbbcccbcbbbbccbbbcbbbbccbbcbbcccbcbcb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 10 vs. team 2
+-102.3121387283237 vs. -206.35838150289018
+Enter Team Name Here vs. Loyal Vengeful
+ccbcccbbcbbbbbcbcbbbbcbbcbcbbccbcbcbbcbccbbcbbbbccbbbcbbbbbcbcbccbcbccbcbbbbccbbcbcbcbbcbcbcbccbcccbcccbcbccbcccccccbbcbcbbcbcccbbcbccbccbcbccbbcbbbcbbbbcbcccbbbbbbbbbbcbccc
+cccbcccbccbcbcbcbcbcbccbccbcbcccbcbcbccbccbccbcbcccbcbcbcbcbcbcbccbcbccbcbcbcccbccbcbcbccbcbcbccbcccbcccbcbccbcccccccbccbcbccbcccbccbccbccbcbccbccbcbcbcbccbcccbcbcbcbcbccbcc
+
+team 10 vs. team 3
+-84.39153439153439 vs. -173.2804232804233
+Enter Team Name Here vs. Enter Team Name Here
+cccbcccbbcbbccbbbcbccccccccccbcbbccbcbbcbbcbbbcccbccbbcccbcbbcccbcccbbbbbcbccbbbcbbcbccbccbcbcbbbccbbcbbcbccbccccccbbbbbbcbbccbcbcccbcbcccbbbbbccbcbbbccbcbbccccbbbccccccbccccccbbcccbbcbcccb
+ccccbcccbccbcccbcbcbccccccccccbcbcccbcbccbccbcbcccbccbccccbcbccccbcccbcbcbcbccbcbcbccbccbccbcbcbcbccbccbccbccbccccccbcbcbccbcccbcbcccbcbcccbcbcbccbcbcbccbcbcccccbcbccccccbccccccbccccbccbccc
+
+team 10 vs. team 4
+-112.33766233766234 vs. -198.05194805194805
+Enter Team Name Here vs. Enter Team Name Here
+cbcbbbcbbccbbbcbcbbccbcccbbbcbbbcbbccbcbcbcbccccccbcbcbbcbcbccbccbbbbbbbccccccbccbccbcbbccbbbbcbcbcbbbcbccbbcbcccccbcbcbcbcccbcbbbbbbbcccbccbcbcbbcbbbbcbc
+ccbcbcbcbcccbcbcbcbcccbcccbcbcbcbcbcccbcbcbcbccccccbcbcbccbcbccbccbcbcbcbccccccbccbccbcbcccbcbccbcbcbcbcbccbccbcccccbcbcbcbcccbcbcbcbcbcccbccbcbcbccbcbccb
+
+team 10 vs. team 5
+-83.82352941176471 vs. -193.23529411764707
+Enter Team Name Here vs. Enter Team Name Here
+cccbbbcccbbbbbbcbcbcbccccccccccbbccccbcbbbbcbcbbbbccbcbbbbcbccccbccbccbcbcccbbbbcbbbbbbbcbbcbbbcbcbbbcbbcbbccbbbcbccccccbcccbcbccbcbbcccbcbbcccccbbccbbbbccbbcbbcccbbbccbb
+ccccbcbcccbcbcbccbcbcbccccccccccbcccccbcbcbccbcbcbcccbcbcbccbccccbccbccbcbcccbcbccbcbcbcbcbccbcbcbcbcbcbccbcccbcbcbccccccbcccbcbccbcbccccbcbccccccbcccbcbcccbccbccccbcbccb
+
+team 10 vs. team 6
+-85.64356435643565 vs. -174.75247524752476
+Enter Team Name Here vs. Enter Team Name Here
+cbcccccbbbbcbbbcbcccbcccbcccbbcbccccbccbbcccccbcccbcbcccbcccbbcccbbbcbbbbcbcbbbcccccbbbccbbbbbccbbcbb
+ccbcccccbcbccbcbcbcccbcccbcccbccbccccbccbccccccbcccbcbcccbcccbccccbcbcbcbccbcbcbcccccbcbccbcbcbccbccb
+
+team 10 vs. team 7
+-77.67295597484276 vs. -187.1069182389937
+Enter Team Name Here vs. Enter Team Name Here
+cbcbcbcccccbbbccbccbbcccbcbbbbcccbbcbccccccccbbbbccbbbccbbccccccbccbbcbbcbbbccbbbcccbcbcbcbbcbbcbbbbcbbbbbbbbcbcccbbcbbbccbbcbbbcccbcccbbcbcbcccccccccbbbbcbbcc
+ccbcbcbcccccbcbccbccbccccbcbcbccccbccbccccccccbcbcccbcbccbcccccccbccbccbccbcbccbcbcccbcbcbcbccbccbcbccbcbcbcbccbcccbccbcbccbccbcbcccbcccbccbcbcccccccccbcbccbcc
+
+team 10 vs. team 8
+-86.28048780487805 vs. -177.7439024390244
+Enter Team Name Here vs. Enter Team Name Here
+ccccbcccbcccbcbbbbbbbccccbcbcbcccccbcbcbbbbbbcbccbbbbcbbcccccbbbbbbcbbbcbcbbccccbccbcbbbcbcbbccbbccbbbbcbccbcbbbccbcbbcccbccbbcccbbcccccccbbcccbcccbcccbccbcbbcbcccc
+cccccbcccbcccbcbcbcbcbccccbcbcbcccccbcbcbcbcbccbccbcbccbccccccbcbcbccbcbcbcbcccccbccbcbcbcbcbcccbcccbcbccbccbcbcbccbcbccccbccbccccbccccccccbccccbcccbcccbccbcbccbccc
+
+team 10 vs. team 9
+-151.96629213483146 vs. -155.3370786516854
+Enter Team Name Here vs. AI
+ccbcbcbcbbbbbcbccccbbccbcbbccbccbcbccbccccbcccbbbccccbbbccccbbcbbbccbbbbbbbbcbbbcbbbbbccbcbbbbcccbbbbbcccbccccccccbbcccbbcbcbbccccbbcccbbbcbccbbcccbcbbcbcbccbcccccbcbcccccbbcbbcb
+cccbcbcbcbbbbbcbccccbbccbcbbccbccbcbccbccccbcccbbbccccbbbccccbbcbbbccbbbbbbbbcbbbcbbbbbccbcbbbbcccbbbbbcccbccccccccbbcccbbcbcbbccccbbcccbbbcbccbbcccbcbbcbcbccbcccccbcbcccccbbcbbc
+
+team 11 vs. team 0
+0.0 vs. 0.0
+Enter Team Name Here vs. Loyal
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 11 vs. team 1
+-375.0 vs. -75.0
+Enter Team Name Here vs. Backstabber
+cbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcbcb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+
+team 11 vs. team 2
+0.0 vs. 0.0
+Enter Team Name Here vs. Loyal Vengeful
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 11 vs. team 3
+0.0 vs. 0.0
+Enter Team Name Here vs. Enter Team Name Here
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 11 vs. team 4
+0.0 vs. 0.0
+Enter Team Name Here vs. Enter Team Name Here
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 11 vs. team 5
+0.0 vs. 0.0
+Enter Team Name Here vs. Enter Team Name Here
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 11 vs. team 6
+0.0 vs. 0.0
+Enter Team Name Here vs. Enter Team Name Here
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 11 vs. team 7
+0.0 vs. 0.0
+Enter Team Name Here vs. Enter Team Name Here
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 11 vs. team 8
+0.0 vs. 0.0
+Enter Team Name Here vs. Enter Team Name Here
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 11 vs. team 9
+0.0 vs. 0.0
+Enter Team Name Here vs. AI
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+team 11 vs. team 10
+-204.71698113207546 vs. -95.28301886792453
+Enter Team Name Here vs. Enter Team Name Here
+ccbcbcccbcbcbccbccbcbccbcccbccbcbccbcbccbccccbccccbcbcbcbcbcbcbcbcccbcbccbccccccbccbccbcbcbccbccbccbcccccbcbcbcbcbcbcbcbccbcbcccbcccbcbccbcbcccbcccbccbccbccbcb
+cbcbcccbbbcbbcbbcbbbbcbcccbbcbbbbcbbbbcbccccbccccbbbcbcbbbcbcbcbcccbbbccbccccccbccbccbbbbbbcbccbbcbbccccbbbcbcbbbbbbbbbbcbbbcccbcccbbbccbcbcccbcccbbcbbcbbcbcbc
 
 
 
@@ -94,32 +400,44 @@ cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 	Each column shows score earned per round against each other player.
 
 
-	P0	P1	P2	P3	P4	P5	
-P0	0	100.0	0.0	0.0	0.0	0.0	
-P1	-500.0	0	-375.0	-375.64102564102564	-376.0	-375.0	
-P2	0.0	-75.0	0	0.0	0.0	0.0	
-P3	0.0	-74.1025641025641	0.0	0	0.0	0.0	
-P4	0.0	-73.6	0.0	0.0	0	0.0	
-P5	0.0	-75.0	0.0	0.0	0.0	0	
-Total:	-500	-197	-375	-375	-376	-375	
+	P0	P1	P2	P3	P4	P5	P6	P7	P8	P9	P10	P11	
+P0	0	100.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	47.71573604060914	0.0	
+P1	-500.0	0	-376.1904761904762	-375.0	-375.0	-375.0	-375.0	-375.0	-375.0	-251.58227848101265	-368.09815950920245	-375.0	
+P2	0.0	-73.33333333333333	0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	-102.3121387283237	0.0	
+P3	0.0	-75.0	0.0	0	0.0	0.0	0.0	0.0	0.0	0.0	-84.39153439153439	0.0	
+P4	0.0	-75.0	0.0	0.0	0	0.0	0.0	0.0	0.0	0.0	-112.33766233766234	0.0	
+P5	0.0	-75.0	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	-83.82352941176471	0.0	
+P6	0.0	-75.0	0.0	0.0	0.0	0.0	0	0.0	0.0	0.0	-85.64356435643565	0.0	
+P7	0.0	-75.0	0.0	0.0	0.0	0.0	0.0	0	0.0	0.0	-77.67295597484276	0.0	
+P8	0.0	-75.0	0.0	0.0	0.0	0.0	0.0	0.0	0	0.0	-86.28048780487805	0.0	
+P9	0.0	-247.78481012658227	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0	-151.96629213483146	0.0	
+P10	-238.57868020304568	-84.66257668711657	-206.35838150289018	-173.2804232804233	-198.05194805194805	-193.23529411764707	-174.75247524752476	-187.1069182389937	-177.7439024390244	-155.3370786516854	0	-204.71698113207546	
+P11	0.0	-75.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	-95.28301886792453	0	
+Total:	-738	-830	-582	-548	-573	-568	-549	-562	-552	-406	-1200	-579	
 
 
  Average per round, with team strategy names:
 
-player 0: -83.33333333333333 points: Loyal
-player 1: -32.833333333333336 points: Backstabber
-player 2: -62.5 points: Loyal Vengeful
-player 3: -62.5 points: Enter Team Name Here
-player 4: -62.666666666666664 points: Enter Team Name Here
-player 5: -62.5 points: Enter Team Name Here
+player 0: -61.5 points: Loyal
+player 1: -69.16666666666667 points: Backstabber
+player 2: -48.5 points: Loyal Vengeful
+player 3: -45.666666666666664 points: Enter Team Name Here
+player 4: -47.75 points: Enter Team Name Here
+player 5: -47.333333333333336 points: Enter Team Name Here
+player 6: -45.75 points: Enter Team Name Here
+player 7: -46.833333333333336 points: Enter Team Name Here
+player 8: -46.0 points: Enter Team Name Here
+player 9: -33.833333333333336 points: AI
+player 10: -100.0 points: Enter Team Name Here
+player 11: -48.25 points: Enter Team Name Here
 
 
 -------------------------------------------------------------------------------
 Here is the code that produced this data:
 
+import random
 '''
 NOTES:
-Version: 1
 
 Prisoners_Dilemma.py allows hard-coding of different strategies
 for the Iterative Prisoners Dilemma, the classic game of game-theory.
@@ -459,15 +777,16 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
 
     elif player == 9:
         if getting_team_name:
-            return 'Enter Team Name Here'
+            return 'AI'
         else:
             if len(opponent_history)==0: #It's the first round: collude
                 return 'c'
-            elif history[-1]=='c' and opponent_history[-1]=='b':
+            elif opponent_history[-1]=='b':
                 return 'b' # betray if they were severely punished last time
+            elif opponent_history[-1]=='c':
+                return 'c'
             else:
                 return 'c' #otherwise collude
-
 
 
 
@@ -487,16 +806,21 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     #######################################
 
 
+
     elif player == 10:
         if getting_team_name:
             return 'Enter Team Name Here'
         else:
             if len(opponent_history)==0: #It's the first round: collude
                 return 'c'
-            elif history[-1]=='c' and opponent_history[-1]=='b':
-                return 'b' # betray if they were severely punished last time
             else:
-                return 'c' #otherwise collude
+                int = random.randint(1,2)
+                if int == 2:
+                    return 'c'
+                elif int == 1:
+                    return 'b'
+
+
 
 
 
