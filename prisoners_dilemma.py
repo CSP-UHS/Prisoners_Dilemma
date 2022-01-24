@@ -276,7 +276,6 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
     #Team Members: Will Fuchs
     #######################################
 
-
     elif player == 7:
         if getting_team_name:
             return 'Will F Team'
@@ -291,6 +290,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
                 return 'c'
             else:
                 return 'c'
+
 
 
 
