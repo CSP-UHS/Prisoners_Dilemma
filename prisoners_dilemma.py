@@ -1,5 +1,6 @@
 '''
 NOTES:
+THE DELICIOUS DONNIES
 
 Prisoners_Dilemma.py allows hard-coding of different strategies
 for the Iterative Prisoners Dilemma, the classic game of game-theory.
@@ -152,19 +153,23 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
 
 
 
-    #Team3: Enter Team Name Here
-    #Team Members:
+    #Team3: The Delicious Donnies
+    #Team Members: Oded and Tommy
     #######################################
 
 
     elif player == 3:
         if getting_team_name:
-            return 'Enter Team Name Here'
+            return 'The Delicious Donnies'
         else:
             if len(opponent_history)==0: #It's the first round: collude
                 return 'c'
             elif history[-1]=='c' and opponent_history[-1]=='b':
                 return 'b' # betray if they were severely punished last time
+            elif history[-1] == 'b':
+                return 'b' #Keep betraying after betraying once
+
+
             else:
                 return 'c' #otherwise collude
 
