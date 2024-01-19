@@ -272,25 +272,24 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
 
 
 
-    #Team7: Enter Team Name Here
-    #Team Members:
+    #Team7: Snoozers
+    #Team Members: Ava and Clay
     #######################################
 
 
     elif player == 7:
         if getting_team_name:
-            return 'Enter Team Name Here'
+            return 'Snoozers'
         else:
-            if len(opponent_history)==0: #It's the first round: collude
+            if len(opponent_history) >= 9:
+                if random.randint(1, 3) == 1:
+                    return 'b'
+                else:
+                    return 'c'
+            elif random.randint(1, 11) == 1:
                 return 'c'
-            elif history[-1]=='c' and opponent_history[-1]=='b':
-                return 'b' # betray if they were severely punished last time
             else:
-                return 'c' #otherwise collude
-
-
-
-
+                return 'b'
 
 
 
@@ -311,12 +310,12 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
         if getting_team_name:
             return 'Enter Team Name Here'
         else:
-            if len(opponent_history)==0: #It's the first round: collude
+            if len(opponent_history) >= 9:
+                return 'b'
+            elif random.randint(1, 5) == 1:
                 return 'c'
-            elif history[-1]=='c' and opponent_history[-1]=='b':
-                return 'b' # betray if they were severely punished last time
             else:
-                return 'c' #otherwise collude
+                return 'b'
 
 
 
