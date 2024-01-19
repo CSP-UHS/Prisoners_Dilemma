@@ -137,7 +137,8 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
         if getting_team_name:
             return 'Loyal Vengeful'
         else:
-            if len(opponent_history)==0: #It's the first round: collude
+            if len(opponent_history)==0:
+                #It's the first round: collude
                 return 'c'
             elif history[-1]=='c' and opponent_history[-1]=='b':
                 return 'b' # betray if they were severely punished last time
@@ -182,19 +183,25 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
 
 
 
-    #Team4: Enter Team Name Here
-    #Team Members:
+    #Team4: First Order
+    #Team Members: Treajan Diersen, Thinh Ngo
     #######################################
 
 
     elif player == 4:
         if getting_team_name:
-            return 'Enter Team Name Here'
+            return 'First Order'
         else:
             if len(opponent_history)==0: #It's the first round: collude
                 return 'c'
             elif history[-1]=='c' and opponent_history[-1]=='b':
                 return 'b' # betray if they were severely punished last time
+            elif history[-1] == 'b' and opponent_history[-1] == 'b':
+                return 'b'
+            elif history[-1] == 'c' and opponent_history[-1] == 'c':
+                return 'b'
+            elif history[-1] == 'b' and opponent_history[-1] == 'c':
+                return 'b'
             else:
                 return 'c' #otherwise collude
 
