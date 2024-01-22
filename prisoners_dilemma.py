@@ -482,31 +482,35 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
 
 
 
-    #Team14: Enter Team Name Here
-    #Team Members:
+    #Team14: Ngo Moore Money
+    #Team Members: Gavin Moore, Tommy Ngo
     #######################################
 
 
     elif player == 14:
         if getting_team_name:
-            return 'Enter Team Name Here'
+            return 'Ngo Moore Money'
         else:
             if len(opponent_history)==0: #It's the first round: collude
                 return 'c'
-            elif history[-1]=='c' and opponent_history[-1]=='b':
-                return 'b' # betray if they were severely punished last time
+            elif len(opponent_history) < 4:
+                if opponent_history[-1] == 'c':
+                    return 'c'
+                elif opponent_history[-1] == 'b':
+                    return 'b'
+            elif len(opponent_history) >= 4:
+                c_counter = 0
+                for i in range(4, 0, -1):
+                    if opponent_history[-i] == 'c':
+                        c_counter += 1
+                if c_counter == 4:
+                    return 'b'
+                elif c_counter >= 2 and c_counter < 4:
+                    return "c"
+                else:
+                    return 'b'
             else:
-                return 'c' #otherwise collude
-
-
-
-
-
-
-
-
-
-
+                return 'c'
 
 
 
