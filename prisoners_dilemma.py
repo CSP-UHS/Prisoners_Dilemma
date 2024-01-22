@@ -152,23 +152,23 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
 
 
 
-    #Team3: Enter Team Name Here
-    #Team Members:
+    #Team3: Amals winning team
+    #Team Members: Amal
     #######################################
 
 
     elif player == 3:
         if getting_team_name:
-            return 'Enter Team Name Here'
+            return 'Amals winning team'
         else:
-            if len(opponent_history)==0: #It's the first round: collude
-                return 'c'
-            elif history[-1]=='c' and opponent_history[-1]=='b':
-                return 'b' # betray if they were severely punished last time
+            if len(opponent_history)==0: #betray to start, counters backstabber
+                return 'b'
+            elif  opponent_history[-1]=='b':
+                return 'b' # copy what the opponent plays
+            elif oppenent_history[-1] + oppenent_history [-2] == 'cc' :
+                return 'b' #if opponent is colluding alot, I will betray to earn some points
             else:
-                return 'c' #otherwise collude
-
-
+                return 'c' #if opponenent dosent play b, he played c. still copying the opponent.
 
 
 
