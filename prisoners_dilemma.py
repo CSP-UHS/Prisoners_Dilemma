@@ -273,7 +273,7 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
 
 
     #Team7: Snoozers
-    #Team Members: Ava and Clay
+    #Team Members: Ava and Keira
     #######################################
 
 
