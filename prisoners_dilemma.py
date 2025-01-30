@@ -332,17 +332,28 @@ def get_action(player, history, opponent_history, score, opponent_score, getting
 
 
 
-    #Team9: Enter Team Name Here
-    #Team Members:
+    #Team9: Not Null
+    #Team Members: Logan K.
     #######################################
 
 
     elif player == 9:
+        mean_jerk_pre_average = 0
+        for letter in opponent_history:
+            if letter == 'c':
+                mean_jerk_pre_average += 1
+        mean_jerk_average = mean_jerk_pre_average / len(opponent_history) #Finds the likelihood of the opponent backstabbing
         if getting_team_name:
-            return 'Enter Team Name Here'
+            return 'Not Null'
         else:
             if len(opponent_history)==0: #It's the first round: collude
                 return 'c'
+            elif mean_jerk_average > 0.5:
+                return 'b' #Betray if they're likely to
+            elif mean_jerk_average < 0.15:
+                return 'b' #Betray if they won't
+            elif mean_jerk_average == 0.5:
+                return 'c' #Colude if there's 50/50 chance
             elif history[-1]=='c' and opponent_history[-1]=='b':
                 return 'b' # betray if they were severely punished last time
             else:
