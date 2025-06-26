@@ -11,6 +11,8 @@ Pressing the green arrow button will allow you to run the tournament and
 store the output in tournament.txt
 
 Teams should each code their strategies in their assigned section of code.
+Have students e-mail me their code and then just paste into my owned
+cloned copy of PD on my computer. Gave up using the Merge method.
 '''
 
 import random
